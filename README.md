@@ -22,3 +22,10 @@ Available on purchase. Contact for details.
 ## Price
 
 50 000 – 120 000 RUB (as-is).
+
+## Verification status
+
+- Test suite: 7 passed (pytest, Python 3.12)
+- FastAPI 0.115, Pydantic v2
+- Full code: available on purchase (ZIP)
+- Last verified: 2026-11-12
