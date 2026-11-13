@@ -19,9 +19,15 @@ Public demo repository for the CargoWise Trust Layer — a ready-made bridge for
 
 Available on purchase. Contact for details.
 
-## Price
+## Pricing
 
-50 000 – 120 000 RUB (as-is).
+| Уровень | Цена | Кому | Права |
+|---|---|---|---|
+| **Starter** | 350 000 RUB (one-time) | Малый форвардер, 1 интеграция | Код, 1 инстанс, без перепродажи |
+| **Professional** | 900 000 RUB | Средний форвардер, несколько инстансов | Код, интеграция в свои продукты, 3 мес. поддержки |
+| **Enterprise / OEM** | от 2 500 000 RUB | Крупный логистический оператор, IT-интегратор | OEM-лицензия, встраивание, 12 мес. поддержки, обновления |
+
+Для покупки и вопросов: apumiaaifund@gmail.com
 
 ## Verification status
 
