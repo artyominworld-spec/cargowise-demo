@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="800" height="400">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#1a2332"/><stop offset="100%" stop-color="#2d4a6b"/>
+  </linearGradient></defs>
+  <rect width="400" height="200" fill="url(#g)"/>
+  <text x="200" y="120" text-anchor="middle" fill="#e5a663" font-family="Helvetica,Arial,sans-serif" font-size="72" font-weight="700">▣</text>
+  <text x="200" y="175" text-anchor="middle" fill="#7ec8e3" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="3">APUMI · ЛОГИСТИКА</text>
+</svg>
