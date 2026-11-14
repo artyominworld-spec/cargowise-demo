@@ -1,5 +1,8 @@
 # CargoWise Trust Layer
 
+<p align="center"><img src="assets/logo.svg" alt="logo" width="400"></p>
+
+
 ## За 30 секунд
 
 **Что это:** CargoWise connector — интеграция с логистической платформой для извлечения и проверки данных о перевозках.
